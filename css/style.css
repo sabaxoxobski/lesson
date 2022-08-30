@@ -35,8 +35,11 @@ color: #EE4036;
 	margin-left: 10px;
 }
 
-/*cotact*/
+/*/news*/
 
+.news-article{
+	background-color: #E6E6E6;
+}
 .date {
 	width: 56px;
 	height: 56px;
@@ -44,6 +47,12 @@ color: #EE4036;
 	padding: 7px 10px;
 	font-size: 37px;
 	color: white;
+	margin-top: 10px;
+	margin-bottom: 3px;
+}
+.h3{
+	margin-top: 18.5px;
+	margin-bottom: 16.5px;
 }
 .text-block{
 	display: inline-block;
@@ -57,9 +66,18 @@ color: #EE4036;
 .p1 {
 	margin bottom: 21px;
 }
+.statia2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
 /*cotact page*/
+
+
 .section-contact{
 	background-color:#E6E6E6 ;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 .conteiner {
 
