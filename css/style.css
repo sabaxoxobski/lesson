@@ -1,3 +1,42 @@
+/*მთავარი*/
+.logo {
+	vertical-align: middle;
+}
+.nav-a {
+color: #EE4036;
+}
+.nav {
+	color: #3D58A6;
+}
+.buner{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.tube {
+	margin-right: 30px;
+}
+.fb {
+	margin-left:30px ;
+}
+.divider {
+	width: 1px;
+	height: 27px;
+	background-color: #363E97;
+	display: inline-block;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+.active {
+	display: inline-block;
+	font-size: 22px;
+	margin-left: 10px;
+}
+
+/*cotact*/
+
 .date {
 	width: 56px;
 	height: 56px;
