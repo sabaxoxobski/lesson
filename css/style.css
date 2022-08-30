@@ -1,1 +1,38 @@
+.date {
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	padding: 7px 10px;
+	font-size: 37px;
+	color: white;
+}
+.text-block{
+	display: inline-block;
+	width: 929px;
+	vertical-align: top;
+}
+.image-block {
+	vertical-align: top;
+	margin-right: 39px;
+}
+.p1 {
+	margin bottom: 21px;
+}
+/*cotact page*/
+.section-contact{
+	background-color:#E6E6E6 ;
+}
+.conteiner {
 
+	width: 1177px;
+	margin: 0 auto;
+}
+.left-block {
+	vertical-align: top;
+	display: inline-block;
+	margin-right: 75px;
+}
+.right-block{
+	vertical-align: top;
+	display: inline-block;
+}
